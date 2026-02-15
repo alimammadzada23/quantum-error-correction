@@ -41,13 +41,20 @@ Above 2% noise threshold, the simpler 3-qubit code outperforms the complex 9-qub
 
 ---
 
-##  Visualizations
+## Visualizations
 
+### Performance Analysis
 ![Error Correction Performance](corrected_noise_analysis.png)
-*Performance comparison showing bit-flip code maintaining 83% fidelity even at 10% noise*
+*Performance comparison showing bit-flip code maintaining 83% fidelity even at 10% noise, compared with Shor's code and baseline without correction*
 
+### Detailed Noise Analysis
 ![Noise Analysis](noise_analysis_results.png)
-*Detailed analysis across multiple noise levels*
+*Left: Fidelity vs error rate for three codes. Right: Error suppression capability showing effectiveness of quantum error correction*
+
+### Circuit Results
+![Circuit Results](quantum_error_correction_results.png)
+*Eight experimental scenarios demonstrating error detection and correction across different codes and error types*
+
 
 ---
 
