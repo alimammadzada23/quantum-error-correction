@@ -11,7 +11,7 @@ This project implements and benchmarks three quantum error correction (QEC) code
 **LinkedIn:** https://www.linkedin.com/in/alimammadzada/
 **Location:** Gdańsk, Poland
 
-**Duration:** 1 weeks (Jan 2026)  
+**Duration:** 1 weeks (Dec 2025)  
 **Tools:** Python, Qiskit, IBM Quantum Platform
 
 ---
