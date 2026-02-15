@@ -6,13 +6,17 @@ Implementation and analysis of quantum error correction codes (Bit-Flip, Phase-F
 
 This project implements and benchmarks three quantum error correction (QEC) codes under realistic noise conditions to validate error correction threshold behavior and analyze resource-performance trade-offs.
 
-**Author:** [Ali Mammadzada]  
-**Duration:** 2 weeks (Jan 2026)  
+**Author:** Ali Mammadzada  
+**Email:** mammadzada2303@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/alimammadzada/
+**Location:** Gdańsk, Poland
+
+**Duration:** 1 weeks (Jan 2026)  
 **Tools:** Python, Qiskit, IBM Quantum Platform
 
 ---
 
-## 🔬 What I Built
+##  What I Built
 
 ### Implemented Error Correction Codes:
 1. **3-Qubit Bit-Flip Code** - Protects against bit-flip (X) errors
@@ -27,7 +31,7 @@ This project implements and benchmarks three quantum error correction (QEC) code
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 ### At 1% Physical Error Rate (typical for real quantum hardware):
 - **Without correction:** ~37% success rate ❌
